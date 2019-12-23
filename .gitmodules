@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/liliya1507/lab03
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/Kaaatyaa/lab03
